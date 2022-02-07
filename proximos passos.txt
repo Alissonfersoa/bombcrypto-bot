@@ -1,0 +1,29 @@
+criar requirements.txt
+
+comentar todas as funções em inglês e portugues
+
+
+montar arquivo markdown readme.md
+
+montar função para logar na metamask
+
+montar função para abrir o navegador
+
+montar função para entrar no site do bomb
+
+melhorar arquivo inicialize
+
+funções para definir o delay e o tempo de espera para executar nova rotina
+
+função para clicar no new map
+
+
+
+separar por classes
+==> tentar usar outro metodo de clicar na tela to Pyautogui
+        moveToWithRandomness(pos_click_x,pos_click_y,1)
+        pyautogui.click()
+
+==> tentar mapear a o tamanho da tela do usuario
+==> tentar montar interface GUI para o código
+
